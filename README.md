@@ -1,4 +1,4 @@
-## Hi,there !
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20There%20!&section=header&animation=fadeIn"/>
 
 <p align="center">Hi, I’m a 21-year-old student currently studying Information Systems at Unifacisa. My focus is on programming, specifically working with Java and Spring Boot. I’m passionate about building efficient and scalable applications, and I’m continuously learning to improve my skills in software development.</p>
 <div>
@@ -48,4 +48,4 @@
 </a>
 <a href = "mailto:marcleidsoncontato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&animation=fadeIn"/>
