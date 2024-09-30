@@ -2,8 +2,8 @@
 
 <p align="center">Hi, I’m a 21-year-old student currently studying Information Systems at Unifacisa. My focus is on programming, specifically working with Java and Spring Boot. I’m passionate about building efficient and scalable applications, and I’m continuously learning to improve my skills in software development.</p>
 <div>
-    <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=marclod&show_icons=true&theme=midnight-purple" />
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclod&layout=donut&theme=midnight-purple"/>
+    <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=marclod&show_icons=true&theme=shadow_green" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclod&layout=donut&theme=shadow_green"/>
 </div>
 
 ## My Skills
